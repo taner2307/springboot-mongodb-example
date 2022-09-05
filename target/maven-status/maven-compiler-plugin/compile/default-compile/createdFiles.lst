@@ -1,0 +1,5 @@
+com/tutorial/controller/ProductController.class
+com/tutorial/model/Product.class
+com/tutorial/request/ProductRequest.class
+com/tutorial/repository/ProductRepository.class
+com/tutorial/SpringBootMongoDbApplication.class
